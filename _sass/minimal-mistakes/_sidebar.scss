@@ -14,6 +14,7 @@
     z-index: 10;
     -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
+    background-color: #E2FFFF;
   }
 
   @include breakpoint($large) {
@@ -63,7 +64,7 @@
 
   img {
     width: 100%;
-    
+
     &.emoji {
       width: 20px;
       height: 20px;
@@ -127,7 +128,7 @@
   }
 
   img {
-    max-width: 110px;
+    max-width: 140px;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -315,4 +316,3 @@
     margin-right: initial;
   }
 }
-
