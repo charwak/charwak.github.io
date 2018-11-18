@@ -6,6 +6,8 @@ header:
 
 ---
 
-I consider myself to be a story teller.
-I seek to take my reader through a 360-degree view around a specific matter.
-While at it, I strive to convey my perspective with a high SNR (signal-to-noise ratio).
+I am Charwak Suresh Apte and below are some of the hats I wear:
+
+- Silicon Design Engineer : Senior Member of Technical Staff - Advanced Micro Devices.
+- Storyteller : Storytelling with data.
+- Badminton Enthusiast : I play twice a week at Boston Badminton.
