@@ -19,6 +19,7 @@ layout: default
 
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
+      <li><a class="brand-image" href="{{ HOME_PATH }}"><img class="brand-image" src="images/calogo.png"/></a></li>
       <h1 id="page-title" class="page__title">{{ page.title }}</h1>
     {% endunless %}
     {{ content }}
