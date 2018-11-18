@@ -14,7 +14,6 @@
     z-index: 10;
     -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
-    background-color: #E2FFFF;
   }
 
   @include breakpoint($large) {
