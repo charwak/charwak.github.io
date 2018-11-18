@@ -102,8 +102,8 @@ analytics:
 # Site Author
 author:
   name             : "Charwak Apte"
-  avatar           : "/images/bio-pic-2.jpg"
-  bio              : "I am an amazing person."
+  avatar           : "/images/profile.jpeg"
+  bio              : "A curious sapien."
   location         : "Greater Boston Area, MA"
   email            : "charwak.s.apte@gmail.com"
   links:
@@ -121,7 +121,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/charwak"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
