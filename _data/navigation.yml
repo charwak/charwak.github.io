@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "About"
+  - title: "ABOUT"
     url: "/about"
-  - title: "Stories"
+  - title: "STORIES"
     url: "/stories/"
   # - title: "Sample Posts"
   #   url: /year-archive/
