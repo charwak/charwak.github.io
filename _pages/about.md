@@ -13,6 +13,8 @@ I am Charwak Suresh Apte and below are some of the hats I wear:
 - Badminton Enthusiast
 
 
-<iframe  title="YouTube video player" width="480" height="390" src="http://www.youtube.com/watch?v=TheVideoID?autoplay=1" frameborder="0" allowfullscreen></iframe>
-
-with a **youtube** video embedded
+<div class="video">
+    <figure>
+        <iframe width="640" height="480" src="//www.youtube.com/embed/r1EMAe8sX8U" frameborder="0" allowfullscreen></iframe>
+    </figure>
+</div>
