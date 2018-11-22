@@ -4,6 +4,10 @@ main:
     url: "/about"
   - title: "STORIES"
     url: "/stories/"
+  - title: "BOOKS"
+    url: "/books/"
+  - title: "TALKS"
+    url: "/talks/"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
