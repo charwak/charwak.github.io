@@ -1,10 +1,10 @@
 ---
-title: "Second post"
+title: "WCC 2018"
 date: 2018-11-19
-tags: [sample, hello, World]
+tags: [chess, caruana, carlsen, london]
 header:
-  image: "images/perceptron/percept.jpg"
-excerpt: "Second post"
+  image: "images/wcc/banner.png"
+excerpt: "WCC 2018 Analysis"
 mathjax: "true"
 ---
 
