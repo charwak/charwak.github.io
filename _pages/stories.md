@@ -8,24 +8,5 @@ header:
 ---
 Lorem ipsum dolor sit amet consectetur adipiscing elit sollicitudin nunc, quam id libero suscipit fusce mauris eleifend venenatis velit tellus, ornare ut sagittis in senectus lacus nulla tristique. Aptent adipiscing eget mollis morbi cum platea parturient, massa per viverra tellus dictumst torquent, quisque feugiat conubia iaculis diam vulputate. Vulputate taciti facilisi elit ridiculus vitae id curae nullam habitasse, integer metus lectus dignissim natoque curabitur massa sapien, nam odio scelerisque per enim fringilla cubilia elementum. Hac consectetur elit potenti aenean viverra nibh ipsum, mattis facilisi enim vel odio nullam commodo tristique, in himenaeos bibendum eget primis suscipit.
 
-
-\begin{equation*}
-\mathbf{V}_1 \times \mathbf{V}_2 =  \begin{vmatrix}
-\mathbf{i} & \mathbf{j} & \mathbf{k} \\
-\frac{\partial X}{\partial u} &  \frac{\partial Y}{\partial u} & 0 \\
-\frac{\partial X}{\partial v} &  \frac{\partial Y}{\partial v} & 0
-\end{vmatrix}
-\end{equation*}
-
-import pandas as pd
-import seaborn as sns
-%matplotlib inline
-
-url = "https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data"
-names = ['sepal-length', 'sepal-width', 'petal-length', 'petal-width', 'class']
-iris = pd.read_csv(url, names=names)
-
-iris.head()
-iris.describe()
-
-sns.pairplot(x_vars=["petal-length"], y_vars=["petal-width"], data=iris, hue="class", size=10)
+Smartphone Comparisons:
+<div class='tableauPlaceholder' id='viz1543196524000' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fl&#47;FlagshipSmartphones&#47;FlagshipSmartphones&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='FlagshipSmartphones&#47;FlagshipSmartphones' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Fl&#47;FlagshipSmartphones&#47;FlagshipSmartphones&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1543196524000');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1200px';vizElement.style.height='1127px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
