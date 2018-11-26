@@ -10,4 +10,4 @@ Lorem ipsum dolor sit amet consectetur adipiscing elit sollicitudin nunc, quam i
 
 Smartphone Comparisons:
 
-<iframe src="https://public.tableau.com/views/FlagshipSmartphones/FlagshipSmartphones?:showVizHome=no&:embed=true" width="90%" height="500"></iframe>
+<iframe src="https://public.tableau.com/views/FlagshipSmartphones/FlagshipSmartphones?:showVizHome=no&:embed=true" width="1000" height="800"></iframe>
