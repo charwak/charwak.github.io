@@ -9,6 +9,7 @@ mathjax: "true"
 ---
 
 ### The Games
+---
 
 | White   | Black   | Moves | Opening                                        |
 |---------|---------|-------|------------------------------------------------|
@@ -23,7 +24,19 @@ mathjax: "true"
 | Carlsen | Caruana | 56    | A29 English, Four Knights, Kingside Fianchetto |
 | Caruana | Carlsen | 54    | B33 Sicilian                                   |
 
+### Centipawns scoring for the games:
+---
+
 <iframe src="https://public.tableau.com/views/WCC2018/Sheet1?:showVizHome=no&:embed=true" width="1200" height="650"></iframe>
+
+
+### The Venue:
+---
+
+
+### The Players:
+---
+
 
 
 
