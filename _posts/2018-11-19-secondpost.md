@@ -8,7 +8,7 @@ excerpt: "WCC 2018 Analysis"
 mathjax: "true"
 ---
 
-<iframe src="https://public.tableau.com/views/WCC2018/Sheet1?:showVizHome=no&:embed=true" width="1200" height="800"></iframe>
+<iframe src="https://public.tableau.com/views/WCC2018/Sheet1?:showVizHome=no&:embed=true" width="1200" height="700"></iframe>
 
 
 
