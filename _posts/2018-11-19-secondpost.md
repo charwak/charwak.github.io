@@ -8,7 +8,22 @@ excerpt: "WCC 2018 Analysis"
 mathjax: "true"
 ---
 
-<iframe src="https://public.tableau.com/views/WCC2018/Sheet1?:showVizHome=no&:embed=true" width="1200" height="700"></iframe>
+### The Games
+
+| White   | Black   | Moves | Opening                                        |
+|---------|---------|-------|------------------------------------------------|
+| Caruana | Carlsen | 115   | B31 Sicilian, Rossolimo Variation              |
+| Carlsen | Caruana | 49    | D37 Queen's Gambit Declined                    |
+| Caruana | Carlsen | 49    | B31 Sicilian, Rossolimo Variation              |
+| Carlsen | Caruana | 34    | A29 English, Four Knights, Kingside Fianchetto |
+| Caruana | Carlsen | 33    | B31 Sicilian, Rossolimo Variation              |
+| Carlsen | Caruana | 80    | C42 Petrov Defense                             |
+| Carlsen | Caruana | 40    | D37 Queen's Gambit Declined                    |
+| Caruana | Carlsen | 38    | B33 Sicilian                                   |
+| Carlsen | Caruana | 56    | A29 English, Four Knights, Kingside Fianchetto |
+| Caruana | Carlsen | 54    | B33 Sicilian                                   |
+
+<iframe src="https://public.tableau.com/views/WCC2018/Sheet1?:showVizHome=no&:embed=true" width="1200" height="650"></iframe>
 
 
 
