@@ -8,6 +8,10 @@ excerpt: "WCC 2018 Analysis"
 mathjax: "true"
 ---
 
+<iframe src="https://public.tableau.com/views/WCC2018/Sheet1?:showVizHome=no&:embed=true" width="1000" height="500"></iframe>
+
+
+
 This is a demo of all styled elements in Jekyll Now.
 
 [View the markdown used to create this post](https://raw.githubusercontent.com/barryclark/www.jekyllnow.com/gh-pages/_posts/2014-6-19-Markdown-Style-Guide.md).
